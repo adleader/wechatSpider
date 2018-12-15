@@ -13,17 +13,35 @@
                     <key>url</key>
                     <string>http://192.168.1.160:8080/HDFS-Netdisc/app/weixin.ipa</string>
                 </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string></string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string></string>
+                </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
                 <string>com.tencent.xin</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>6.7.4.44</string>
                 <key>kind</key>
                 <string>software</string>
+                <key>subtitle</key>
+                <string>App</string>
                 <key>title</key>
-                <string>weixin</string>
+                <string>微信</string>
             </dict>
         </dict>
     </array>
